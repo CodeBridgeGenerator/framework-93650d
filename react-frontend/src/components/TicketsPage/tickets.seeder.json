@@ -1,0 +1,122 @@
+[
+    {
+        "ticket_id": 1,
+        "project_id": 3,
+        "title": "Bug #1 - Issue with feature 14",
+        "description": "Description of bug 1 affecting feature 14",
+        "status": "open",
+        "priority": "high",
+        "type": "bug",
+        "reporter_id": 4,
+        "assignee_id": 2,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 2,
+        "project_id": 1,
+        "title": "Bug #2 - Issue with feature 8",
+        "description": "Description of bug 2 affecting feature 8",
+        "status": "in progress",
+        "priority": "medium",
+        "type": "feature",
+        "reporter_id": 5,
+        "assignee_id": 3,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 3,
+        "project_id": 2,
+        "title": "Bug #3 - Issue with feature 11",
+        "description": "Description of bug 3 affecting feature 11",
+        "status": "closed",
+        "priority": "critical",
+        "type": "task",
+        "reporter_id": 1,
+        "assignee_id": 6,
+        "closed_at": 45433.60766203704
+    },
+    {
+        "ticket_id": 4,
+        "project_id": 5,
+        "title": "Bug #4 - Issue with feature 5",
+        "description": "Description of bug 4 affecting feature 5",
+        "status": "open",
+        "priority": "low",
+        "type": "bug",
+        "reporter_id": 7,
+        "assignee_id": 8,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 5,
+        "project_id": 3,
+        "title": "Bug #5 - Issue with feature 9",
+        "description": "Description of bug 5 affecting feature 9",
+        "status": "reopened",
+        "priority": "high",
+        "type": "feature",
+        "reporter_id": 2,
+        "assignee_id": 5,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 6,
+        "project_id": 4,
+        "title": "Bug #6 - Issue with feature 3",
+        "description": "Description of bug 6 affecting feature 3",
+        "status": "in progress",
+        "priority": "medium",
+        "type": "task",
+        "reporter_id": 6,
+        "assignee_id": 9,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 7,
+        "project_id": 2,
+        "title": "Bug #7 - Issue with feature 12",
+        "description": "Description of bug 7 affecting feature 12",
+        "status": "closed",
+        "priority": "critical",
+        "type": "bug",
+        "reporter_id": 3,
+        "assignee_id": 7,
+        "closed_at": 45366.38246527778
+    },
+    {
+        "ticket_id": 8,
+        "project_id": 1,
+        "title": "Bug #8 - Issue with feature 7",
+        "description": "Description of bug 8 affecting feature 7",
+        "status": "open",
+        "priority": "low",
+        "type": "feature",
+        "reporter_id": 8,
+        "assignee_id": 4,
+        "closed_at": "None"
+    },
+    {
+        "ticket_id": 9,
+        "project_id": 5,
+        "title": "Bug #9 - Issue with feature 10",
+        "description": "Description of bug 9 affecting feature 10",
+        "status": "closed",
+        "priority": "high",
+        "type": "task",
+        "reporter_id": 9,
+        "assignee_id": 1,
+        "closed_at": 45485.76770833333
+    },
+    {
+        "ticket_id": 10,
+        "project_id": 4,
+        "title": "Bug #10 - Issue with feature 6",
+        "description": "Description of bug 10 affecting feature 6",
+        "status": "reopened",
+        "priority": "medium",
+        "type": "bug",
+        "reporter_id": 10,
+        "assignee_id": 2,
+        "closed_at": "None"
+    }
+]
